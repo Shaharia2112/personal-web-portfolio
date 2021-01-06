@@ -1,0 +1,165 @@
+#menubar{
+    padding:0;
+    margin-bottom: 10px;
+}
+#menubar li{
+    display:inline;
+}
+#menubar li a{
+    color:black;
+    text-decoration: none;
+    background:white;
+    font-size: 25px;
+    font-weight: bolder;
+    padding:10px 20px ;
+}
+#menubar li a:hover{
+    background:orange;
+}
+#menu{
+    height: 60px;
+    width:15cm;
+    margin-left: 115ch;
+    margin-top:42px;
+}
+#fristfont{
+     font-size:70px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     color:rgb(17, 17, 66);;
+     
+}
+.secondfont{
+    font-size:70px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     color:rgb(17, 17, 66);
+     margin-top:-65px;
+     margin-bottom:-10px;
+}
+.font-color{
+    color:tomato;
+}
+.topwidth{
+    width:35%;
+    float:left;
+}
+.topwidth img{
+    width:100%;
+}
+p{
+    font-size:18px;
+    color:dimgray;
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(150deg,#FB7562,#F66360);
+    font-weight: bold;
+    color:white;
+    padding:22px 45px;
+    border-radius: 5px;
+    
+}
+.size{
+    margin-bottom:55px;
+}
+#imagesize{
+    margin-left: 250px;
+    margin-bottom: 120px;
+}
+#divsize{
+    margin-top: 110px;
+    margin-left: 100px;
+}
+#fristsection{
+    height: 700px;
+    width:100%;
+}
+#fontsize{
+    font-size: 18px;
+}
+#aboutsize{
+    margin-left: 250px;
+    margin-top: 100px; 
+}
+#secondsection{
+    width:1500px;
+    height: 765px;
+    background: 1000px;
+}
+#secondimagesize{
+  margin-left: 110px;
+}
+#aboutfont{
+    font-size:50px;
+    color:#363958;
+}
+#second-para{
+    text-align: justify;
+    padding:45px 25px 8px 25px ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px dimgray;
+    height: 150px;
+    background-image: linear-gradient(150deg,#F8B561,#e98141);
+    border-left: 10px solid;
+    border-color: lawngreen;
+}
+#thirdsection{
+    border:1px solid #F7F8FB;
+    height:850px;
+    background-color:#F7F8FB;
+    width: 100%;
+}
+#headfont{
+   
+    text-align: center;
+    margin-top: 150px;
+    font-size:45px;
+}
+#text-color{
+    color:#F46060;
+}
+.imageadd{
+
+    width:25%;
+    height:300px; 
+    margin: 20px 20px 20px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(161, 160, 160);
+}
+#imageplace{
+    text-align: center;
+    margin-top: 100px;
+}
+#fourthsection{
+    height:700px;
+    width:100%;
+    border:1px solid white;
+}
+#fourthsection{
+    background-image: url("images/Babu1.png");
+    background-size: 850px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:625px;
+    width:100%;
+}
+#finish{
+    width:60%;
+    font-size:55px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 270px 10px 10px 380px;
+    color:white;
+    padding-bottom: 70px;
+
+
+}
+#chatboxfont{
+    font-size:20px;
+    margin-left: 235px;
+    text-decoration: none;
+    background-image:linear-gradient(150deg,#FB7562,#F66360);
+    font-weight: bold;
+    color:white;
+    padding:20px 20px;
+    border-radius: 5px;
+}
