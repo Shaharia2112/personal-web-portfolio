@@ -1,3 +1,6 @@
+body{
+    margin:0;
+}
 #menubar{
     padding:0;
     margin-bottom: 10px;
@@ -22,7 +25,7 @@
     margin-left: 115ch;
     margin-top:42px;
 }
-#fristfont{
+.fristfont{
      font-size:70px;
      font-family:Georgia, 'Times New Roman', Times, serif;
      color:rgb(17, 17, 66);;
@@ -130,36 +133,43 @@ p{
     text-align: center;
     margin-top: 100px;
 }
-#fourthsection{
-    height:700px;
+#talk{
+    height:500px;
     width:100%;
-    border:1px solid white;
-}
-#fourthsection{
     background-image: url("images/Babu1.png");
     background-size: 850px;
     background-repeat: no-repeat;
     background-position: center;
-    height:625px;
-    width:100%;
-}
-#finish{
-    width:60%;
-    font-size:55px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    margin: 270px 10px 10px 380px;
-    color:white;
-    padding-bottom: 70px;
-
+    text-align: center;;
 
 }
-#chatboxfont{
-    font-size:20px;
-    margin-left: 235px;
+#headfont{
+    font-size:45px;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(17, 16, 16);
+    
+}
+#resize{
+    margin-top: 300px;
+}
+#project{
+    box-shadow: 10px 10px 10px rgb(131, 131, 131);
+    width:50%;
+    height: 450px;
+    background-image:url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    margin-left: 375px;
+
+}
+#buttonsize{
     text-decoration: none;
-    background-image:linear-gradient(150deg,#FB7562,#F66360);
-    font-weight: bold;
     color:white;
-    padding:20px 20px;
-    border-radius: 5px;
+    background-image: linear-gradient(50deg,orange,tomato);
+    border-radius: 10px;
+    font-size:50px;
+    text-decoration: none;
+    margin-top:230px;
+    margin-left:550px;
+    broder:none;
 }
